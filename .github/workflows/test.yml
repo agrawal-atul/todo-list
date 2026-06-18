@@ -1,0 +1,12 @@
+name: My First Action
+
+on: push
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print a message
+        run: echo "Hello, this ran on GitHub's servers!"
+      - name: Show the date
+        run: date
