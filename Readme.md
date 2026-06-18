@@ -1,3 +1,5 @@
+\# THIS FILE IS FOR HUMAN README.TXT NOT FOR CLAUDE.
+
 \# Todo List — Cowork Test Project
 
 
